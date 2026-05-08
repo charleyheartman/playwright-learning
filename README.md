@@ -1,4 +1,3 @@
-
 # Playwright + TypeScript Automation Tests
 
 End-to-end test automation project built with Playwright and TypeScript.
@@ -23,6 +22,7 @@ tests/
   login.spec.ts        # Login tests (data-driven)
   saucedemo.spec.ts    # Saucedemo smoke tests
   checkout.spec.ts     # Full E2E checkout flow
+```
 
 ## ✅ Test Coverage
 
@@ -33,14 +33,14 @@ tests/
 
 ## 🚀 Run Tests
 
-\```bash
+```bash
 npm install
 npx playwright install
 npx playwright test
-\```
+```
 
 ## 📊 View Report
 
-\```bash
+```bash
 npx playwright show-report
-\```
+```
