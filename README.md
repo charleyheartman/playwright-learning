@@ -33,14 +33,14 @@ tests/
 
 ## 🚀 Run Tests
 
-```bash
+\```bash
 npm install
 npx playwright install
 npx playwright test
-```
+\```
 
 ## 📊 View Report
 
-```bash
+\```bash
 npx playwright show-report
-```
+\```
