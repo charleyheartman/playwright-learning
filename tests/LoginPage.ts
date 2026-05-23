@@ -1,7 +1,7 @@
 import { Page } from '@playwright/test';
 
 
-interface Credentials {
+export interface Credentials {
     username: string;
     password: string;
 }
